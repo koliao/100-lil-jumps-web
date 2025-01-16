@@ -1,0 +1,19 @@
+body {
+  background-image: url('./background.png');
+  image-rendering: pixelated;
+  background-repeat: repeat-y;
+  background-attachment: relative;
+  background-size: 100% auto;
+}
+
+
+.pageContainer {
+    background-color: rgba(0, 0, 0, 30%);
+    image-rendering: auto;
+    width: 80%;
+}
+
+.logo {
+    width: 30em;
+    border-radius: 4px;
+}
